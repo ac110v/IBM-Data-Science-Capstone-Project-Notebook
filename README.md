@@ -1,6 +1,8 @@
 # IBM-Data-Science-Capstone-Project-Notebook
 This is the assignment of IBM Data Science Capstone Project Notebook
 
+## Peer-graded Assignment: Capstone Project - The Battle of Neighborhoods (Week 1)
+
 ## Instruction
 Now that you have been equipped with the skills and the tools to use location data to explore a geographical location, over the course of two weeks, you will have the opportunity to be as creative as you want and come up with an idea to leverage the Foursquare location data to explore or compare neighborhoods or cities of your choice or to come up with a problem that you can use the Foursquare location data to solve. If you cannot think of an idea or a problem, here are some ideas to get you started:
 
@@ -41,5 +43,41 @@ URL
 Describe the data that you will be using to solve the problem or execute your idea. Remember that you will need to use the Foursquare location data to solve the problem or execute your idea. You can absolutely use other datasets in combination with the Foursquare location data. So make sure that you provide adequate explanation and discussion, with examples, of the data that you will be using, even if it is only Foursquare location data.
 
 This submission will eventually become your Data section in your final report. So I recommend that you push the report (having your Data section) to your Github repository and submit a link to it.
+
+URL
+
+## Peer-graded Assignment: Capstone Project - The Battle of Neighborhoods (Week 2)
+
+In this week, you will continue working on your capstone project. Please remember by the end of this week, you will need to submit the following:
+
+A full report consisting of all of the following components (15 marks):
+Introduction where you discuss the business problem and who would be interested in this project.
+Data where you describe the data that will be used to solve the problem and the source of the data.
+Methodology section which represents the main component of the report where you discuss and describe any exploratory data analysis that you did, any inferential statistical testing that you performed, if any, and what machine learnings were used and why.
+Results section where you discuss the results.
+Discussion section where you discuss any observations you noted and any recommendations you can make based on the results.
+Conclusion section where you conclude the report.
+2. A link to your Notebook on your Github repository pushed showing your code. (15 marks)
+
+3. Your choice of a presentation or blogpost. (10 marks)
+
+Here are examples of previous outstanding submissions that should give you an idea of what your report would look like, what your notebook would look like in terms of clean, clear, and well-commented code, and what your presentation would look like or your blogpost would look like:
+
+Report: Report Template
+Notebook: Notebook Template
+Presentation: Presentation Template
+Blogpost: Blogpost template
+
+## Submission (Week #2)
+
+Project Title
+Give your project a descriptive title
+Please submit a link to your Notebook.
+
+URL
+Please submit a link to your report.
+
+URL
+Please submit a link to either your presentation or blogpost.
 
 URL
