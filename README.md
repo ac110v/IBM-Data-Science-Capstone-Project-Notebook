@@ -1,5 +1,5 @@
 # IBM-Data-Science-Capstone-Project-Notebook
-This is the assignment of IBM Data Science Capstone Project Notebook
+This is the assignment of IBM Data Science Capstone Project Notebook hosted in Coursera.
 
 ## Peer-graded Assignment: Capstone Project - The Battle of Neighborhoods (Week 1)
 
